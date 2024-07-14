@@ -1,9 +1,6 @@
-
-https://github.com/user-attachments/assets/2af449ea-a98c-4450-93cf-8734302b63db
 # Card game:
 
-## Description
-A simple card game developed in Swift where two players draw cards, and the player with the higher card value earns a point.
+Card game developed in Swift where two players draw cards, and the player with the higher card value earns a point.
 The game also determines a player's position (east or west) based on their location.
 
 ## Features
